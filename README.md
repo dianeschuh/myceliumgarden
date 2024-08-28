@@ -1,4 +1,4 @@
-## Mycelium Garden - sound installation project in co-coposition with a mycelium network – 
+## Mycelium Garden - sound installation project in co-composition with a mycelium network – 
 winner of the EUR ArTec Symbiosis call for projects
 
 
