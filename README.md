@@ -17,7 +17,7 @@ For this phase there is the possibility to add a image projection co-composed be
 ![MyceliumGarden_phase2_AIsetup](https://github.com/user-attachments/assets/47704c61-dc01-4d1a-b25a-4a3d7a148288)
 
 The two releases include, in the Max patches, simulation of the mycelium signal and stereo mixdown to be able to listen. You should adjust the decoder depending on your audio setup.
-If connected to a mycelium organism you need a signal acquisition device. We use two EAVI boards from the ANR project BBDMI and adapted the patch code to the system. 
+If connected to a mycelium organism you need a signal acquisition device. We use two EAVI boards from the ANR project BBDMI and adapted the patch code to the system. See https://gitlab.huma-num.fr/bbdmi/bbdmi
 
 ### project leader
 - Diane Schuh, composer, researcher and landscape architect (doctoral student at CICM - MUSIDANSE/Paris 8).
