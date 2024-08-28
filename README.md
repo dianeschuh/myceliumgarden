@@ -34,6 +34,7 @@ If connected to a mycelium organism you need a signal acquisition device. We use
 - Salim Mohamed Aissi, from the MLIA team (Institute of Intelligent Systems and Robotics (ISIR) - CNRS - INSERM - Sorbonne University), computer scientist, research engineer for the development of an Artificial Intelligence model for Mycelium Garden; 
 - Guillaume Peureux, Professor of 17th century French literature, Director of the CSLF at the University of Paris Nanterre; 
 - Julien Schuh, Deputy Director of the CSLF, digital humanities expert (machine learning, massive data analysis, text and image generation).
-IN COLLABORATION WITH
+
+### in collaboration with 
 MSH Paris Nord, EA 1572 Esthétique, musicologie, danse et création musicale (musidanse), Université Paris Nanterre
 
